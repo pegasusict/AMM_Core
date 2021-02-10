@@ -33,9 +33,9 @@ collection consists of a little over 500k songs...)
  -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Parse & Purge Tags
  -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Store File- & Tag-Data in DB
  -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Generate Audio-Fingerprint
- -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Calculate Audio Quality(bitrate/channels/sampling)
+ -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Calculate Audio Quality(bit rate/channels/sampling)
  -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Remove Duplicates Based on Quality
- -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Integrate Tags & Art in database, Fix (& Merge) Artist names & Titles
+ -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Integrate Tags & Art in the database, Fix (& Merge) Artist names & Titles
  -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Insert Tags in Files
  -[ ] ![Must](https://via.placeholder.com/15/f00?text=+) `Must` Rename & Move Files to target dir structure
 

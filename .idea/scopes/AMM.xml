@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="AMM" pattern="file[AMM_Core]:*/&amp;&amp;!file[AMM_Core]:PPL//*" />
+</component>

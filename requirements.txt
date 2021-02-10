@@ -1,3 +1,16 @@
-semantic_version
-musicbrainzngs
-pymediainfo
+# -*- coding: utf-8 -*-
+semver >= 2.8
+musicbrainzngs >=0.7
+pymediainfo>=5.0.3
+python-dotenv >= 0.15
+pip>=21.0.1
+toml>=0.10.2
+confuse>=1.4.0
+
+
+
+
+# dev:
+pytest
+coverage
+

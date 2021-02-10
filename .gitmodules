@@ -1,0 +1,3 @@
+[submodule "PPL"]
+	path = PPL
+	url = https://github.com/pegasusict/pegasusict-python-library
