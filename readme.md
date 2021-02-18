@@ -1,6 +1,8 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9048ccfe21464759aa75566fa8559990)](https://www.codacy.com/gh/pegasusict/AMM_Core/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pegasusict/AMM_Core&amp;utm_campaign=Badge_Grade)
-![GPL v3+](img/gplv3-or-later.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9048ccfe21464759aa75566fa8559990)](https://www.codacy.com/gh/pegasusict/AMM_Core/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pegasusict/AMM_Core&amp;utm_campaign=Badge_Grade)  
+![GPL v3+](img/gplv3-or-later.svg)  
+
 # Audiophiles' Music Manager - Core V0.0.0-DEV
+
 Updated: 2021-02-18   
 Copyleft: 2017-2021 Mattijs Snepvangers  
 Licence: GPL v3+ 
